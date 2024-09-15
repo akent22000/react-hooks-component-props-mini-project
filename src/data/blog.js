@@ -2,7 +2,8 @@ import logo from "../assets/logo";
 
 const blogData = {
   name: "Underreacted",
-  image: logo,
+  image: "https://i.imgur.com/mV8PQxj.gif",
+
   about: "A blog about learning React",
   posts: [
     {
