@@ -10,7 +10,7 @@ function ArticleList({ posts }) {
   })
   return (
     <main id="posts">
-      <p>{postElements}</p>
+      {postElements}
     </main>
   );
 }

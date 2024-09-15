@@ -1,12 +1,12 @@
 import React from "react";
 
-function Header({ username }) {
+function Header({ name }) {
     return (
-        <div id="header">
+        <header>
             <h1>
-                {username}
+                {name}
             </h1>
-        </div>
+        </header>
     );
 }
 
